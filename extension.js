@@ -53,13 +53,13 @@
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 25, // 1-200
       startupVolume: 0, // 0-100
-      startupEmoji: false, // true or false
+      startupEmoji: true, // true or false
       autowoot: true,
       autoskip: false,
-      smartSkip: true,
+      smartSkip: false,
       cmdDeletion: true,
       maximumAfk: 120,
-      afkRemoval: true,
+      afkRemoval: false,
       maximumDc: 60,
       bouncerPlus: true,
       blacklistEnabled: true,
@@ -93,7 +93,7 @@
       motd: "Temporary Message of the Day",
       filterChat: true,
       etaRestriction: false,
-      welcome: true,
+      welcome: false,
       opLink: null,
       rulesLink: null,
       themeLink: null,
