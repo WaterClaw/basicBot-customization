@@ -90,7 +90,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: false,
       motdInterval: 5,
-      motd: "Temporary Message of the Day",
+      motd: "Potato",
       filterChat: true,
       etaRestriction: false,
       welcome: false,
