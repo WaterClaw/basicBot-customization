@@ -99,7 +99,7 @@
       themeLink: null,
       fbLink: null,
       youtubeLink: null,
-      website: xaliance.net,
+      website: "http://xaliance.net/",
       intervalMessages: [],
       messageInterval: 5,
       songstats: false,
